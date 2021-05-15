@@ -1,7 +1,7 @@
-#Build
+<h1>#Build</h1>
 
 make && ./out
 
-#Remove
+<h1>#Remove</h1>
 make clean
 
